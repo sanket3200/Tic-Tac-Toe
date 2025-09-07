@@ -20,8 +20,8 @@ Play as **Player X** or **Player O**, with a clean UI, automatic win detection, 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/username/java-tictactoe.git
-   cd java-tictactoe
+   git clone https://github.com/sanket3200/Tic-Tac-Toe.git
+   cd Tic-Tac-Toe
 
 ---
 
