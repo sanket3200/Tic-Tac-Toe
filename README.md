@@ -40,10 +40,9 @@ Play as **Player X** or **Player O**, with a clean UI, automatic win detection, 
 ## 📸 Screenshots
 
 Game Board
-<p align="center">
+<p align="left">
   <img src="screenshots/0.png" alt="Tic Tac Toe Game Screenshot" width="400"/>
-</p>
-<p align="center">
+</p><p align="right">
   <img src="screenshots/1.png" alt="Tic Tac Toe Game Screenshot" width="400"/>
 </p>
 <p align="center">
